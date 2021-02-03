@@ -1,0 +1,46 @@
+*{
+    padding: 0;
+    margin: 0;
+
+}
+
+.cuerpo{
+
+    width: 960px;
+    margin-top: 50px;
+    margin-bottom: 20px;
+    margin-left: 200px;
+    margin-right: 500px;
+    border:1px solid black;
+}
+
+.header{
+    text-align: center;
+    border: 1px solid black;
+}
+
+footer{
+    text-align: center;
+   
+    background: gainsboro;
+    
+}
+
+.seccion1{
+    margin: 20px;
+}
+
+.seccion2{
+    margin: 20px;
+    
+}
+.a2{
+    margin-left: 790px;
+    margin-bottom: 500px;
+}
+
+.a1{
+    margin-bottom: 500px;
+    margin-left: 300;
+
+}
